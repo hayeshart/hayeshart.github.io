@@ -16,7 +16,7 @@
 
 h1 {
     font-family: 'Mountains of Christmas', serif;
-    font-weight: bold 700;
+    font-weight: 700;
 }
 
 h2 {
@@ -345,7 +345,7 @@ nav {
 }
 
 .form-wrapper {
-    max-width: auto;
+    width: auto;
     margin: 20px;
     padding: 1em;
     background: white;
@@ -561,7 +561,6 @@ footer h3 {
 
     .videocontainer {
         justify-content: left;
-        align-items: left;
         grid-column: 1;
     }
     
@@ -577,7 +576,5 @@ footer h3 {
         max-height: 300px;
         
     }
-
-
 
 }
